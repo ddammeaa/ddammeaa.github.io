@@ -4,7 +4,7 @@ body{
     margin:0;
 
     font-family: Arial, sans-serif;
-    background-image: url('background.jpg'); /* path to your image */
+    background-image: url('Lego.jpg'); /* path to your image */
     background-size: cover; /* cover the entire page */
     background-position: center; /* center the image */
     background-repeat: no-repeat; /* do not repeat */
