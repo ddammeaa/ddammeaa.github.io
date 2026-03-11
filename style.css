@@ -40,6 +40,7 @@ ul{
     padding-left:20px;
 }
 
+/* Navigation Bar */ 
 
 nav{
   background:#222;
@@ -66,4 +67,18 @@ nav a{
 
 nav a:hover{
   color:#00adb5;
+}
+
+/* Project Gallery */
+
+div.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+div.gallery-item {
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 180px;
 }
