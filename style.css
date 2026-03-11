@@ -82,3 +82,17 @@ div.gallery-item {
   border: 1px solid #ccc;
   width: 60px;
 }
+
+div.gallery-item:hover {
+  border: 1px solid #777;
+}
+
+div.gallery-item img {
+  width: 100%;
+  height: auto;
+}
+
+div.gallery-item div.desc {
+  padding: 15px;
+  text-align: center;
+}
