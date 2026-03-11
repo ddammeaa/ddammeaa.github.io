@@ -2,6 +2,13 @@ body{
     font-family: Arial, sans-serif;
     background:#f4f6f8;
     margin:0;
+
+    font-family: Arial, sans-serif;
+    background-image: url('background.jpg'); /* path to your image */
+    background-size: cover; /* cover the entire page */
+    background-position: center; /* center the image */
+    background-repeat: no-repeat; /* do not repeat */
+    color: white; /* make text readable on dark background */
 }
 
 header{
